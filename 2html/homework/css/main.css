@@ -1,0 +1,27 @@
+body{
+	background-color: #20221F;
+}
+div{
+	background-color:#F65410;
+	border: solid 5px;
+	margin: 10px;
+	font-size:20px;
+}
+.main:hover{
+	background-color:#F9EF32;
+	text-shadow:-20px 10px #000000;
+}
+.main{
+	text-align: center;
+	background-color:#F8B319;
+}
+h1{
+	color:#BF3824;
+}
+h2{
+	color:#F4FF72;
+	text-align:center;
+}
+p{
+	padding-left:30px;
+}

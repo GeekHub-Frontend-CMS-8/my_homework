@@ -1,0 +1,38 @@
+body{
+	background-color:#20221F;
+}
+div{
+	border:3px solid;
+	padding:30px;
+	text-align:center;
+	background-color:#F0B063;
+	margin-bottom: 50px;
+}
+div:hover{
+	background-color: #9A3C42;
+}
+table{
+	border-spacing:0px;
+	border-collapse:collapse;
+	margin:auto;
+}
+th{
+	font-size: 20px;
+	text-align:center;
+	border:3px solid #EF2528;
+	padding: 30px;
+	background-color: #860A23;
+}
+tr:nth-child(odd) {
+ background-color: #F0B063; 
+}
+tr{ 
+	font-size:20px;
+	text-align:center;
+	padding: 0px;
+	background-color: #862915; 
+}
+td{
+	border:3px solid #EF2528;
+}
+
